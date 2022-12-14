@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Excellent Tuition Centre (ETC)/1.0.0": {
+        "runtime": {
+          "Excellent Tuition Centre (ETC).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excellent Tuition Centre (ETC)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

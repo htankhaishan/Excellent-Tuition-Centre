@@ -1,0 +1,17 @@
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\bin\Debug\net6.0-windows\Excellent Tuition Centre (ETC).exe
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\bin\Debug\net6.0-windows\Excellent Tuition Centre (ETC).deps.json
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\bin\Debug\net6.0-windows\Excellent Tuition Centre (ETC).runtimeconfig.json
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\bin\Debug\net6.0-windows\Excellent Tuition Centre (ETC).dll
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\bin\Debug\net6.0-windows\Excellent Tuition Centre (ETC).pdb
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).csproj.AssemblyReference.cache
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent_Tuition_Centre__ETC_.main.resources
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).csproj.GenerateResource.cache
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).AssemblyInfoInputs.cache
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).AssemblyInfo.cs
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).csproj.CoreCompileInputs.cache
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).dll
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\refint\Excellent Tuition Centre (ETC).dll
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).pdb
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).genruntimeconfig.cache
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\ref\Excellent Tuition Centre (ETC).dll
