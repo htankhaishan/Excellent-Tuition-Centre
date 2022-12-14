@@ -1,6 +1,6 @@
 ﻿namespace Excellent_Tuition_Centre__ETC_
 {
-    partial class Form1
+    partial class main
     {
         /// <summary>
         ///  Required designer variable.
