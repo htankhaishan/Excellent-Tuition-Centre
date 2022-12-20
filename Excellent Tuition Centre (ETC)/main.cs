@@ -10,6 +10,7 @@ namespace Excellent_Tuition_Centre__ETC_
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Thank you!");
+            lblRice.Text = "I commited this thingy - Rice";
         }
     }
 }
