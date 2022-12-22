@@ -12,5 +12,15 @@ namespace Excellent_Tuition_Centre__ETC_
             MessageBox.Show("Thank you!");
             lblRice.Text = "I commited this thingy - Rice";
         }
+
+        private void main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Server.Transfer("student.resx")
+        }
     }
 }

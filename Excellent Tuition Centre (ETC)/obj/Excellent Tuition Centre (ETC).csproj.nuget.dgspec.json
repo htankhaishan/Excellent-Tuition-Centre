@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yazid\\Source\\Repos\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\Excellent Tuition Centre (ETC).csproj": {}
+    "C:\\Users\\ben\\Source\\Repos\\htankhaishan\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\Excellent Tuition Centre (ETC).csproj": {}
   },
   "projects": {
-    "C:\\Users\\yazid\\Source\\Repos\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\Excellent Tuition Centre (ETC).csproj": {
+    "C:\\Users\\ben\\Source\\Repos\\htankhaishan\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\Excellent Tuition Centre (ETC).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yazid\\Source\\Repos\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\Excellent Tuition Centre (ETC).csproj",
+        "projectUniqueName": "C:\\Users\\ben\\Source\\Repos\\htankhaishan\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\Excellent Tuition Centre (ETC).csproj",
         "projectName": "Excellent Tuition Centre (ETC)",
-        "projectPath": "C:\\Users\\yazid\\Source\\Repos\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\Excellent Tuition Centre (ETC).csproj",
-        "packagesPath": "C:\\Users\\yazid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yazid\\Source\\Repos\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\obj\\",
+        "projectPath": "C:\\Users\\ben\\Source\\Repos\\htankhaishan\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\Excellent Tuition Centre (ETC).csproj",
+        "packagesPath": "C:\\Users\\ben\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ben\\Source\\Repos\\htankhaishan\\Excellent-Tuition-Centre\\Excellent Tuition Centre (ETC)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yazid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
