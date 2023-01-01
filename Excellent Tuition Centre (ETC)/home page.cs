@@ -1,3 +1,5 @@
+using Excellent_Tuition_Centre__ETC_.NewFolder;
+
 namespace Excellent_Tuition_Centre__ETC_
 {
     public partial class main : Form
@@ -5,6 +7,7 @@ namespace Excellent_Tuition_Centre__ETC_
         public main()
         {
             InitializeComponent();
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -20,7 +23,14 @@ namespace Excellent_Tuition_Centre__ETC_
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            Server.Transfer("student.resx")
+      
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            student_page obj1 = new student_page();
+            this.Hide();
+            obj1.ShowDialog();
         }
     }
 }

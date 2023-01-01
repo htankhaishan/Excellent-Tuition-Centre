@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Excellent Tuition Centre (ETC)"
+    "\\Excellent Tuition Centre (ETC)",
+    "\\Excellent Tuition Centre (ETC)\\student"
   ],
-  "SelectedNode": "\\Excellent Tuition Centre (ETC)\\main.cs",
+  "SelectedNode": "\\Excellent Tuition Centre (ETC)\\student\\student_page.cs",
   "PreviewInSolutionExplorer": false
 }
