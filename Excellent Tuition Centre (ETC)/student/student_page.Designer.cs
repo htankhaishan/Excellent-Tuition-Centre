@@ -170,7 +170,7 @@
             this.btnSchedule.Name = "btnSchedule";
             this.btnSchedule.Size = new System.Drawing.Size(182, 61);
             this.btnSchedule.TabIndex = 11;
-            this.btnSchedule.Text = "Schedule";
+            this.btnSchedule.Text = "My Schedule";
             this.btnSchedule.UseVisualStyleBackColor = false;
             this.btnSchedule.Click += new System.EventHandler(this.btnSchedule_Click);
             // 

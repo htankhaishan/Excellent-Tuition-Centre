@@ -32,6 +32,10 @@ C:\Users\yazid\Source\Repos\Excellent-Tuition-Centre\Excellent Tuition Centre (E
 C:\Users\yazid\Source\Repos\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).pdb
 C:\Users\yazid\Source\Repos\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).genruntimeconfig.cache
 C:\Users\yazid\Source\Repos\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\ref\Excellent Tuition Centre (ETC).dll
+<<<<<<< HEAD
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent_Tuition_Centre__ETC_.NewFolder.student_page.resources
+=======
+>>>>>>> 42b01a8f02106b4c75194180fa21fb89272209da
 C:\Users\ben\Source\Repos\htankhaishan\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).csproj.AssemblyReference.cache
 C:\Users\ben\Source\Repos\htankhaishan\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent_Tuition_Centre__ETC_.main.resources
 C:\Users\ben\Source\Repos\htankhaishan\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent_Tuition_Centre__ETC_.Properties.Resources.resources
@@ -52,3 +56,6 @@ C:\Users\ben\Source\Repos\htankhaishan\Excellent-Tuition-Centre\Excellent Tuitio
 C:\Users\ben\source\repos\htankhaishan\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent Tuition Centre (ETC).genruntimeconfig.cache
 C:\Users\ben\source\repos\htankhaishan\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\ref\Excellent Tuition Centre (ETC).dll
 C:\Users\ben\Source\Repos\htankhaishan\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent_Tuition_Centre__ETC_.student.Request_To_Change_Subject.resources
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent_Tuition_Centre__ETC_.Properties.Resources.resources
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent_Tuition_Centre__ETC_.student.Request_To_Change_Subject.resources
+C:\Users\htank\Documents\Github\Excellent-Tuition-Centre\Excellent Tuition Centre (ETC)\obj\Debug\net6.0-windows\Excellent_Tuition_Centre__ETC_.tutor.tutor.resources
