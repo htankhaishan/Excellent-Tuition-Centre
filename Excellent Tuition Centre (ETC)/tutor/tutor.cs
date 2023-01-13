@@ -14,7 +14,17 @@ namespace Excellent_Tuition_Centre__ETC_.tutor
     public partial class tutor : Form
     {
         public tutor()
-========
+private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // tutor
+            // 
+            this.ClientSize = new System.Drawing.Size(895, 387);
+            this.Name = "tutor";
+            this.ResumeLayout(false);
+
+        }========
 namespace Excellent_Tuition_Centre__ETC_.student
 {
     public partial class Request_To_Change_Subject : Form
